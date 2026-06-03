@@ -25,3 +25,19 @@
     margin-left: 20px;
     margin-right: 10px;
 }
+
+.a-segunda-pagina {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: lawngreen;
+}
+
+.button-segunda-pagina {
+    display: block;
+    padding: 6px 6px;
+    border-radius:10px;
+    margin-top: 30px;
+    margin-left: 15px;
+    background-color: black;
+}
