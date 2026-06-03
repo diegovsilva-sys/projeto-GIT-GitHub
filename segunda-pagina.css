@@ -5,9 +5,23 @@
 }
 
 .body-segunda-pagina {
-    background-image: url('assets/fundo-segunda-pagina.jpg');
+    background-image: url('assets/segunda-pagina.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.h1-segunda-pagina {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+.p-segunda-pagina {
+    color: rgb(231, 231, 231);
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
 }
